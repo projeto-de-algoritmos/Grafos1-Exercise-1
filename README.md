@@ -6,7 +6,7 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 19/0089601  | [João Lucas Pinto Vasconcelos](github.com/HacKairos) |
+| 19/0089601  | [João Lucas Pinto Vasconcelos](https://www.github.com/HacKairos) |
 
 ## Sobre 
 Exercicios de Grafos, Resolvidos e explicados.
