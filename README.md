@@ -16,7 +16,7 @@ A linguagem utilizada na resolução dos 3 exercícios foi [Python](https://www.
 Não segui a risca o repositório [template](https://github.com/projeto-de-algoritmos/RepositorioTemplate) pois acreditei que alguns tópicos acabariam ficando obsoletos dentro do que realizei, como, por exemplo: Screenshots, Instalação, Uso e Outros.
 
 ## [Video](https://youtu.be/y_lxhjPEpr8)
-Para apresentação da primeira entrega, foi gravado um video e postado no youtube, apresentando o repositorio e as soluções.
+Para apresentação da primeira entrega, foi gravado um video e postado no repositorio, apresentando o repositorio e as soluções.
 
 <video src="/Videos/Grafos-1-Projeto-de-Algoritmos.mp4" controls title="Title"></video>
 
